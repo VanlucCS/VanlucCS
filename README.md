@@ -17,11 +17,9 @@
 
 - 📫 How to reach me **tranvanluc456789@gmail.com**
 
-- 📄 Know about my experiences [0️⃣]
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/văn lực" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="văn lực" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/v%C4%83n-l%E1%BB%B1c-11bb60197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="văn lực" height="30" width="40" /></a>
 <a href="https://fb.com/vanlucc.8.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vanlucc.8.1" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/abc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abc" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/20521587" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="20521587" height="30" width="40" /></a>
