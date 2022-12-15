@@ -1,4 +1,4 @@
-<img  width="300" align="right" alt="Coding" width="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsH3aHTQgrdtYk_OW3_rYYgII52lJMNt7EyFzYbkaKXhiX1rNgvJkEHBc8mq6w28bZnik&usqp=CAU">
+<img  width="200" align="right" alt="Coding" width="250" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsH3aHTQgrdtYk_OW3_rYYgII52lJMNt7EyFzYbkaKXhiX1rNgvJkEHBc8mq6w28bZnik&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Trần Văn Lực</h1>
 <h3 align="center">💻👨‍🎓 Student at 🏫 University of Information Technology🤝</h3>
 <h3 align="center">🆔MSSV : 20521587    </h3>
@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanluccs&label=Profile%20views&color=0e75b6&style=flat" alt="vanluccs" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vanluccs" alt="vanluccs" /></a> </p>
-<img align="right" alt="Coding" width="350" src="https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-3-min.gif">
+<img align="right" alt="Coding" width="300" src="https://24hstore.vn/upload_images/images/2019/11/14/anh-gif-3-min.gif">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
